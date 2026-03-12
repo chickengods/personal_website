@@ -1,5 +1,5 @@
 layout
-1. make nav bar collaspse for phones
+1. make nav bar collapse for phones
 2. create on going projects for Projects
 3. for reading have different sections for fun and research
 4. better color scheme
