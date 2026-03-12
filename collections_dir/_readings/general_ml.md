@@ -13,7 +13,7 @@ order: 1
 - [Machine Learning Mastery](https://machinelearningmastery.com/)
     - [How to Choose Loss Functions When Training Deep Learning Neural Networks](https://machinelearningmastery.com/how-to-choose-loss-functions-when-training-deep-learning-neural-networks/)
     - [A Gentle Introduction to Cross-Entropy for Machine Learning](https://machinelearningmastery.com/cross-entropy-for-machine-learning/)
-- [What is a Siamese Neural Netowrk?](https://towardsdatascience.com/what-is-a-siamese-neural-network-b0dbeb1c6db7)
+- [What is a Siamese Neural Network?](https://towardsdatascience.com/what-is-a-siamese-neural-network-b0dbeb1c6db7)
 - [Residual Neural Network - ResNet](https://iq.opengenus.org/residual-neural-networks/)
 - [Introducing Pathways: A next-generation AI architecture](https://blog.google/technology/ai/introducing-pathways-next-generation-ai-architecture/?utm_source=pocket_mylist)
 - [PyTorch 101, Part 1: Understanding Graphs, Automatic Differentiation and Autograd](https://blog.paperspace.com/pytorch-101-understanding-graphs-and-automatic-differentiation)

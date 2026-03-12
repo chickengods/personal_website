@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Funtional Brain ROI Clustering with InfoMap
+title: Functional Brain ROI Clustering with InfoMap
 summary: I applied InfoMap, a functional clustering method, to gain insight into how different parts of the brain interact.
 card_image: /assets/images/metadatamapequation.svg
 t_use: true
